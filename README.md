@@ -23,4 +23,6 @@ Python · JavaScript · React · Next.js · Vue/Nuxt · Tailwind CSS · Node.js 
 
 ## Contact
 
+📄 Page bio : https://telegra.ph/Hugues-FADONOUGBO--Développeur-Full-Stack--IA--Motion-Design-Cotonou-Bénin-10-10
+
 ✉️ stanleystawa3@gmail.com · 📱 +229 01 40 91 22 72 · ▶️ [YouTube @HistoireAi-r6p](https://www.youtube.com/@HistoireAi-r6p)
