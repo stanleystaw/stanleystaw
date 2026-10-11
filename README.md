@@ -2,7 +2,7 @@
 
 **Développeur Full-Stack Python & JavaScript** — IA & automatisation · Motion Design · Cybersécurité
 
-📍 Cotonou, Bénin · 💼 5 ans d'expérience · 🌍 FR/EN · 🌐 Freelance & remote
+📍 Bénin · 💼 5 ans d'expérience · 🌍 FR/EN · 🌐 Freelance & remote
 
 *Aussi écrit : FADONOUGBO Hugues — pseudos en ligne : stanleystaw (GitHub), HistoireAi-r6p (YouTube). Une seule et même personne.*
 
@@ -12,7 +12,7 @@
 
 ## Stack
 
-Python · JavaScript · React · Next.js · Vue/Nuxt · Tailwind CSS · Node.js · Kotlin · SQL · LLM & agents IA · Automatisation · Motion Design · UI/UX · Cybersécurité · Blender 3D
+Python · JavaScript · React · Next.js · Vue/Nuxt · Tailwind CSS · Node.js · Kotlin · SQL · LLM & agents IA · Automatisation · Motion Design · UI/UX · Blender 3D
 
 ## Projets phares
 
@@ -23,8 +23,8 @@ Python · JavaScript · React · Next.js · Vue/Nuxt · Tailwind CSS · Node.js 
 
 ## Pages bio
 
-- [Page bio générale](https://telegra.ph/Hugues-FADONOUGBO--Développeur-Full-Stack--IA--Motion-Design-Cotonou-Bénin-10-10)
-- [Fiche rentry](https://rentry.co/hugues-fadonougbo)
+- [Page bio générale](https://telegra.ph/Hugues-FADONOUGBO--Développeur-Full-Stack--IA--Motion-Design-Bénin-10-11)
+- [Services](https://telegra.ph/Services--Hugues-FADONOUGBO-Développeur-Full-Stack-Bénin-10-11)
 
 ## Contact
 
