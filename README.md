@@ -28,4 +28,4 @@ Python · JavaScript · React · Next.js · Vue/Nuxt · Tailwind CSS · Node.js 
 
 ## Contact
 
-✉️ stanleystawa3@gmail.com · 📱 +229 01 40 91 22 72 · ▶️ [YouTube @HistoireAi-r6p](https://www.youtube.com/@HistoireAi-r6p)
+✉️ stanleystawa3@gmail.com · 📱 +229 01 40 91 22 72 · ▶️ [YouTube @HistoireAi-r6p](https://www.youtube.com/@HistoireAi-r6p) · 💼 [LinkedIn](https://www.linkedin.com/in/fadonougbo-hugues-0a0a5b42b)
